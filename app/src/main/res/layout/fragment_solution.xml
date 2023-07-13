@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bronze"
+    tools:context=".SolutionFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="OUR SOLUTION"
+        android:gravity="top"
+        android:layout_marginTop="9dp"
+        android:layout_marginStart="9dp"
+        android:textColor="@color/white"
+        android:textSize="40dp"
+        android:textStyle="bold">
+    </TextView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="89dp"
+            android:textSize="19.5sp"
+            android:textColor="@color/white"
+            android:fontFamily="@font/font1"
+            android:text="State of the art toilets available on wheels at strategic locations
+
+Safe facility for women, children, differently abled and the elderly
+
+Provide basic sanitation products
+
+Availability of clean potable water
+
+Health Kiosk for first aid and generic testing center
+
+Eco-friendly project solutions
+
+Advanced data analytics dashboard that analyse urine samples to predict the user's lifestyle risk
+
+State-of-the-art Machine Learning and Statistical methods to give user's lifestyle urine pH alerts, drink water reminders and recommendations to improve the lifestyle of the user "
+            android:layout_marginEnd="9dp"
+            android:layout_marginStart="26dp"></TextView>
+
+    </LinearLayout>
+</FrameLayout>

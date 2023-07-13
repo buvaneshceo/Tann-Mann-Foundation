@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CD7F32"
+    tools:context=".TalkFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Talk To Us"
+        android:fontFamily="@font/font1"
+        android:gravity="top"
+        android:layout_marginTop="30dp"
+        android:layout_marginStart="9dp"
+        android:textColor="@color/white"
+        android:textSize="40dp"
+        android:textStyle="bold">
+    </TextView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="260dp"
+            android:fontFamily="@font/font1"
+            android:textSize="19.5sp"
+            android:textColor="@color/white"
+            android:text="@string/Talk"
+            android:layout_marginEnd="9dp"
+            android:layout_marginStart="26dp"></TextView>
+
+    </LinearLayout>
+
+
+</FrameLayout>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Tann_Mann_Foundation</string>
+    <string name="open" />
+    <string name="close" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">We are a <u>"Not for Profit"</u> trust venture building Wellness on wheels<i>(The Tann Mann Gaadi)</i> to address the serious problem of open defecation which is a major health risk for all in developing countries.
+We are in the mission of integrating technology with our social cause. We are in the process of providing a holistic approach to social responsibility keeping health, sensitization, safety and Eco-friendly solutions</string>
+
+<string name="why"><br>    Open defecation which is a major health risk globally</br>
+
+    <br>Inaccessibility of Hygienic and Safe public conveniences</br>
+
+    <br>Un-safe environment for women, children, differently abled and the elderly</br>
+
+    <br>Lack of potable and  clean water</br>
+
+    <br>Un-availability of basic health facilities and amenities</br>
+</string>
+    <string name="Link"> Click the link<a href="https://www.thetannmanngaadi.org/events"> here</a> to register</string>
+
+    <string name="Talk"><br> How Can I Help You?</br>
+    <b>We believe that no contribution is small and each one of us has the ability to give back to the community in some measure. You have the ability to be part of "The Change"</b></string>
+</resources>
+
